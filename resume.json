@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Jeff Rogers",
+    "label": "Product & Development Consultant, Startup Entrepreneur",
+    "email": "jeff@atriumn.com",
+    "phone": "+1 312 282 9879",
+    "location": {
+      "city": "Chicago",
+      "region": "Illinois",
+      "countryCode": "US"
+    },
+    "summary": "Senior Engineering & Product Management Consultant and Entrepreneur. Agile leader skilled in rapid design and delivery of high-quality and compliant products and systems."
+  },
+  "work": [
+    {
+      "company": "Self-Employed",
+      "position": "Principal Owner",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Advised startups on high-quality continuous product delivery, resulting in safe but aggressive go-to-market strategies. Designed systems with quality as a foundational principle, enabling clients to proactively embrace risk."
+    },
+    {
+      "company": "Pinger",
+      "position": "Head Of Engineering Quality & Productivity",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Achieved high-quality experiences for Pinger's 100 million customer and business platforms through risk mitigation, productivity, and testing disciplines. Managed CI/CD pipelines and associated tooling for engineering teams across three continents, allowing for rapid product iteration."
+    },
+    {
+      "company": "Tempus Labs",
+      "position": "Head of Engineering Quality / Technology Practices Lead",
+      "startDate": "2017",
+      "endDate": "2021",
+      "summary": "Managed technology delivery practices for clinical diagnostic and analytical data products, ensuring compliance, quality, and rapid delivery."
+    },
+    {
+      "company": "Basis / Centro",
+      "position": "Senior Director of Engineering",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Fostered a culture of shared product development across teams, stakeholders, and leadership, resulting in customer-focused and collaborative product development."
+    },
+    {
+      "company": "Angi",
+      "position": "Director Of Engineering Quality",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Spearheaded the deployment of agile and quality processes across two major Engineering offices, shifting to a rapid delivery model, bringing new features to customers in a highly competitive industry."
+    },
+    {
+      "company": "Groupon",
+      "position": "Senior Engineering Manager, Quality Assurance",
+      "startDate": "2010",
+      "endDate": "2013",
+      "summary": "Guided 300+ engineers in product release validation and development productivity processes, resulting in a culture of high ownership and attention to detail."
+    },
+    {
+      "company": "Unknown",
+      "position": "Lead Consultant & Quality Practice Lead",
+      "startDate": "2000",
+      "endDate": "2010",
+      "summary": "Led quality engineering capabilities for the company's North American Agile practice, resulting in consistency in deliverables, collaboration, and customer satisfaction."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lifting"
+    },
+    {
+      "name": "Snowboarding"
+    },
+    {
+      "name": "BBQ"
+    }
+  ]
+}
